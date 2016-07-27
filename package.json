@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "My new web Application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "mykey"
+  ],
+  "author": "vishnu",
+  "license": "UNLICENSED"
+}
